@@ -45,6 +45,8 @@ To run this project locally, follow these steps:
 4. **Start the Backend Server**:
    ```bash
    npm start
+   or
+   npm run dev
    ```
 
 5. **Install Frontend Dependencies**:
@@ -56,6 +58,8 @@ To run this project locally, follow these steps:
 6. **Start the Frontend Application**:
    ```bash
    npm start
+   or
+   npm run dev
    ```
 
 7. **Access the Application**:
