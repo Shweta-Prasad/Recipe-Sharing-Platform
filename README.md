@@ -62,9 +62,6 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-7. **Access the Application**:
-   - Open your browser and navigate to `http://localhost:3000` to start using the platform.
-
 
 ## License
 
